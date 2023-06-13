@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1i4yZOaevdSlD1k1sUJ55dsIyG90dssIR
 
 # Object detection with Vision Transformers
-
+# Special Thanks to Mr.Karan V. Dave whose Implementation I have used and modified.
 **Author:** [Karan V. Dave](https://www.linkedin.com/in/karan-dave-811413164/)<br>
 **Date created:** 2022/03/27<br>
 **Last modified:** 2022/03/27<br>
